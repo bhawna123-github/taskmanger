@@ -1,0 +1,707 @@
+{
+	"people": {
+		"prefix": {
+			"id": "mNamePrefixes/102515",
+			"title": "Mr.",
+			"code": "MR"
+		},
+		"firstName": "Vikas",
+		"middleName": "Middle",
+		"lastName": "Nagpal",
+		"suffix": {
+			"id": "mNameSuffixes/14711036948",
+			"title": "PK Test Suffix",
+			"code": "PKMT4"
+		},
+		"preferredName": "VikasPreferred",
+		"legalName": "VikasLegal",
+		"anyPreviousName": "YES",
+		"previousFirstName": "PrevNameFirst",
+		"previousMiddleName": "PrevMiddlename",
+		"previousLastName": "PrevlastName",
+		"livingStatus": "Independent",
+		"numOfChildren": "2",
+		"primarySource": {
+			"id": "mSources/6733457",
+			"title": "Self-initiated Letter",
+			"code": "SLTR"
+		},
+		"secondarySource": [{
+			"id": "mSources/10335113315",
+			"title": "Referred",
+			"code": "REF"
+		}, {
+			"id": "mSources/14805966173",
+			"title": "Others",
+			"code": "OTLA8"
+		}],
+		"IdentityPasspostNumber": "1234",
+		"taxpayerId": "76543",
+		"birthDate": 189363600000,
+		"isDeceased": false,
+		"demographic": {
+			"birthCountry": {
+				"id": "mCountries/7880",
+				"country": "India",
+				"countryCode": "IN",
+				"stateLabel": "State",
+				"dialCode": "+91",
+				"zipCodeLabel": "PIN Code",
+				"minPhoneLength": 10,
+				"maxPhoneLength": 10
+			},
+			"rnLicense": "23456",
+			"gender": {
+				"id": "mGenders/103064",
+				"title": "Male",
+				"code": "M"
+			},
+			"maritalStatus": {
+				"id": "mMaritalStatus/16868",
+				"title": "Married",
+				"code": "M"
+			},
+			"ethnicity": {
+				"id": "mEthinicityCodes/9207",
+				"title": "Other",
+				"code": "OTH"
+			},
+			"races": [{
+				"id": "mRaceCodes/14738663377",
+				"title": "Asian",
+				"code": "ASN"
+			}, {
+				"id": "mRaceCodes/14738663383",
+				"title": "White",
+				"code": "WHT"
+			}],
+			"primarylanguage": {
+				"id": "mLanguages/8103",
+				"title": "Gujarati",
+				"code": "gu"
+			},
+			"secondaryLanguage": [{
+				"id": "mLanguages/8106",
+				"title": "Hebrew",
+				"code": "he"
+			}],
+			"citizenship": {
+				"id": "mCountries/7880",
+				"country": "India",
+				"countryCode": "IN",
+				"stateLabel": "State",
+				"dialCode": "+91",
+				"zipCodeLabel": "PIN Code",
+				"minPhoneLength": 10,
+				"maxPhoneLength": 10
+			},
+			"churchName": "ChurchNameVal",
+			"churchAddress": "Church Address Line",
+			"churchCity": "Bangalore",
+			"churchCountry": {
+				"id": "mCountries/7880",
+				"country": "India",
+				"countryCode": "IN",
+				"stateLabel": "State",
+				"dialCode": "+91",
+				"zipCodeLabel": "PIN Code",
+				"minPhoneLength": 10,
+				"maxPhoneLength": 10
+			},
+			"churchState": "Karnataka",
+			"churchZipCode": "560039",
+			"religion": {
+				"id": "mReligionCodes/10279134206",
+				"title": "Agnostic",
+				"code": "AGN"
+			},
+			"pastorName": "PAstorNameVal",
+			"citizenshipOther": [{
+				"havePR": "NO",
+				"visaNumber": "12345",
+				"countryCode": "IN"
+			}]
+		},
+		"cityOfBirth": "Delhi",
+		"drivingLicenseNumber": "12345",
+		"drivingLicenseCountry": {
+			"id": "mCountries/7880",
+			"country": "India",
+			"countryCode": "IN",
+			"stateLabel": "State",
+			"dialCode": "+91",
+			"zipCodeLabel": "PIN Code",
+			"minPhoneLength": 10,
+			"maxPhoneLength": 10
+		},
+		"drivingLicenseState": "Karnataka",
+		"doYouRequireanI20": "Yes",
+		"alienRegistrationNumber": "98765",
+		"f2depedent": "YES",
+		"currentlyEmployed": "YES",
+		"currentEmployer": "CurrEmpName",
+		"jobTitle": "CurrJobTitle",
+		"supervisor": "CurrSupervisor",
+		"dateOfEmployment": 1514826000000,
+		"payType": {
+			"id": "mpayType/14806354471",
+			"title": "pay type",
+			"code": "PAIDP"
+		},
+		"employmentIndustry": {
+			"id": "mEmploymentIndustry/14806327915",
+			"title": "EMp ind",
+			"code": "EMQ6V"
+		},
+		"currentPayRate": "2345",
+		"hoursOfEmployment": {
+			"id": "mHoursOfEmployment/14925586037",
+			"title": "Vikas14",
+			"code": "Vikas14Hour"
+		},
+		"workHours": "YES",
+		"workHoursWestcliff": {
+			"id": "mHoursOfEmployment/14925585974",
+			"title": "Vikas12",
+			"code": "Vikas12Hour"
+		},
+		"previouslyEmployed": "YES",
+		"veteranInfo": {
+			"veteran": "YES",
+			"veteranId": "12345",
+			"dependentOfVeteran": "YES",
+			"educationalBenefits": "YES",
+			"activeMilitary": "YES",
+			"branch": {
+				"id": "mMilitaryBranchCodes/898894",
+				"title": "Navy",
+				"code": "NAVY"
+			},
+			"tuitionAssistance": "YES",
+			"militaryId": "34567",
+			"usingVABenefits": "NO",
+			"coeReceived": "YES",
+			"percentageOfBenefits": "89",
+			"vaBenefits": "section 2 and 3"
+		},
+		"financialAidStatus": "status value",
+		"financialAidFiledDate": 1105488000000,
+		"isFinanceAwarded": "YES",
+		"financeAwardedDate": 1577898000000,
+		"planningForScholarship": "Yes",
+		"referenceId": "23456",
+		"phones": [{
+			"type": {
+				"id": "mPhoneTypes/14582903564",
+				"title": "OTHER",
+				"code": "OTHER"
+			},
+			"country": {
+				"id": "mCountries/7880",
+				"country": "India",
+				"countryCode": "IN",
+				"stateLabel": "State",
+				"dialCode": "+91",
+				"zipCodeLabel": "PIN Code",
+				"minPhoneLength": 10,
+				"maxPhoneLength": 10
+			},
+			"phone": "9810809873",
+			"extn": "1234",
+			"beginDate": 1420131600000,
+			"endDate": 1454432400000,
+			"isPrimary": true
+		}, {
+			"type": {
+				"id": "mPhoneTypes/14850278672",
+				"title": "Fax",
+				"code": "Fax"
+			},
+			"country": {
+				"id": "mCountries/7833",
+				"country": "United States",
+				"countryCode": "US",
+				"stateLabel": "State",
+				"dialCode": "+1",
+				"zipCodeLabel": "Zip Code",
+				"minPhoneLength": 10,
+				"maxPhoneLength": 10
+			},
+			"phone": "123456",
+			"extn": "2345",
+			"beginDate": 1517590800000,
+			"endDate": 1612285200000,
+			"isPrimary": false
+		}, {
+			"type": {
+				"id": "mPhoneTypes/9482",
+				"title": "Cell",
+				"code": "CELL"
+			},
+			"country": {
+				"id": "mCountries/7880",
+				"country": "India",
+				"countryCode": "IN",
+				"stateLabel": "State",
+				"dialCode": "+91",
+				"zipCodeLabel": "PIN Code",
+				"minPhoneLength": 10,
+				"maxPhoneLength": 10
+			},
+			"phone": "345675",
+			"extn": "6789",
+			"beginDate": 1488560400000,
+			"endDate": 1614790800000,
+			"isPrimary": false
+		}],
+		"emails": [{
+			"type": {
+				"id": "mEmailTypes/1388357",
+				"title": "Institutional",
+				"code": "INST"
+			},
+			"email": "vikas2032@gmail.com",
+			"startDate": 1488646800000,
+			"endDate": 1522861200000,
+			"isPrimary": true
+		}, {
+			"type": {
+				"id": "mEmailTypes/10359368688",
+				"title": "Other",
+				"code": "OTHER"
+			},
+			"email": "vikas2032oth@gmail.com",
+			"startDate": 1488646800000,
+			"endDate": 1522861200000,
+			"isPrimary": false
+		}, {
+			"type": {
+				"id": "mEmailTypes/1388357",
+				"title": "Institutional",
+				"code": "INST"
+			},
+			"email": "vikas2032inst2@gmail.com",
+			"startDate": 1488646800000,
+			"endDate": 1522861200000,
+			"isPrimary": false
+		}],
+		"addresses": [{
+			"type": {
+				"id": "mAddressTypes/14861791041",
+				"title": "Residential",
+				"code": "RS"
+			},
+			"country": {
+				"id": "mCountries/7880",
+				"country": "India",
+				"countryCode": "IN",
+				"stateLabel": "State",
+				"dialCode": "+91",
+				"zipCodeLabel": "PIN Code",
+				"minPhoneLength": 10,
+				"maxPhoneLength": 10
+			},
+			"zipCode": "110034",
+			"city": "Bangalore",
+			"state": "Karnataka",
+			"county": "India",
+			"startDate": 1546362000000,
+			"endDate": 1609520400000,
+			"isPrimary": true,
+			"addressLine": ["addr1 line1"]
+		}, {
+			"type": {
+				"id": "mAddressTypes/14767299912",
+				"title": "Mailing",
+				"code": "M"
+			},
+			"country": {
+				"id": "mCountries/7880",
+				"country": "India",
+				"countryCode": "IN",
+				"stateLabel": "State",
+				"dialCode": "+91",
+				"zipCodeLabel": "PIN Code",
+				"minPhoneLength": 10,
+				"maxPhoneLength": 10
+			},
+			"zipCode": "110034",
+			"city": "Bangalore",
+			"state": "Karnataka",
+			"county": "India",
+			"startDate": 1546362000000,
+			"endDate": 1609520400000,
+			"isPrimary": false,
+			"addressLine": ["addr2 line1", "addr2 line2"]
+		}, {
+			"type": {
+				"id": "mAddressTypes/14861791041",
+				"title": "Residential",
+				"code": "RS"
+			},
+			"country": {
+				"id": "mCountries/7880",
+				"country": "India",
+				"countryCode": "IN",
+				"stateLabel": "State",
+				"dialCode": "+91",
+				"zipCodeLabel": "PIN Code",
+				"minPhoneLength": 10,
+				"maxPhoneLength": 10
+			},
+			"zipCode": "110034",
+			"city": "Bangalore",
+			"state": "Karnataka",
+			"county": "India",
+			"startDate": 1546362000000,
+			"endDate": 1609520400000,
+			"isPrimary": false,
+			"addressLine": []
+		}],
+		"dependent": [{
+			"d1firstName": "SpouseFirstNAme",
+			"d1MiddleName": "SpouseMiddleName",
+			"d1LastName": "SpouseLastName",
+			"d1Relationship": "Spouse",
+			"d1Dob": 946746000000,
+			"d1Passport": "12345",
+			"d1CountryBirth": {
+				"id": "mCountries/7880",
+				"country": "India",
+				"countryCode": "IN",
+				"stateLabel": "State",
+				"dialCode": "+91",
+				"zipCodeLabel": "PIN Code",
+				"minPhoneLength": 10,
+				"maxPhoneLength": 10
+			},
+			"d1Gender": {
+				"id": "mGenders/103065",
+				"title": "Female",
+				"code": "F"
+			}
+		}, {
+			"d1firstName": "Childfirstname",
+			"d1MiddleName": "Childmiddlename",
+			"d1LastName": "childelastname",
+			"d1Relationship": "dependent",
+			"d1Dob": 1262365200000,
+			"d1Passport": "12345",
+			"d1CountryBirth": {
+				"id": "mCountries/7880",
+				"country": "India",
+				"countryCode": "IN",
+				"stateLabel": "State",
+				"dialCode": "+91",
+				"zipCodeLabel": "PIN Code",
+				"minPhoneLength": 10,
+				"maxPhoneLength": 10
+			},
+			"d1Gender": {
+				"id": "mGenders/103065",
+				"title": "Female",
+				"code": "F"
+			}
+		}, {
+			"d1firstName": "Childtwofirstname",
+			"d1MiddleName": "Childtwomiddlename",
+			"d1LastName": "childtwolastname",
+			"d1Relationship": "dependent",
+			"d1Dob": 1262365200000,
+			"d1Passport": "12345",
+			"d1CountryBirth": {
+				"id": "mCountries/7880",
+				"country": "India",
+				"countryCode": "IN",
+				"stateLabel": "State",
+				"dialCode": "+91",
+				"zipCodeLabel": "PIN Code",
+				"minPhoneLength": 10,
+				"maxPhoneLength": 10
+			},
+			"d1Gender": {
+				"id": "mGenders/103065",
+				"title": "Female",
+				"code": "F"
+			}
+		}],
+		"prevExperience": [{
+			"previousEmployer": "PrevEmployerone",
+			"previousjobTitle": "PRevJonTitleone",
+			"previoussupervisor": "PrevSupervisor",
+			"previousdateOfEmployment": 1514826000000,
+			"previousdateOfEmploymentTo": 1546362000000,
+			"previouspayType": {
+				"id": "mpayType/14806354471",
+				"title": "pay type",
+				"code": "PAIDP"
+			},
+			"previousemploymentIndustry": {
+				"id": "mEmploymentIndustry/14806327915",
+				"title": "EMp ind",
+				"code": "EMQ6V"
+			},
+			"previousPayRate": "5678"
+		}, {
+			"previousEmployer": "PrevEmployertwo",
+			"previousjobTitle": "PRevJonTitletwo",
+			"previoussupervisor": "PrevSupervisor",
+			"previousdateOfEmployment": 1514826000000,
+			"previousdateOfEmploymentTo": 1546362000000,
+			"previouspayType": {
+				"id": "mpayType/14806354471",
+				"title": "pay type",
+				"code": "PAIDP"
+			},
+			"previousemploymentIndustry": {
+				"id": "mEmploymentIndustry/14806327915",
+				"title": "EMp ind",
+				"code": "EMQ6V"
+			},
+			"previousPayRate": "5678"
+		}, {
+			"previousEmployer": "PrevEmployerthree",
+			"previousjobTitle": "PRevJonTitlethree",
+			"previoussupervisor": "PrevSupervisor",
+			"previousdateOfEmployment": 1514826000000,
+			"previousdateOfEmploymentTo": 1546362000000,
+			"previouspayType": {
+				"id": "mpayType/14806354471",
+				"title": "pay type",
+				"code": "PAIDP"
+			},
+			"previousemploymentIndustry": {
+				"id": "mEmploymentIndustry/14806327915",
+				"title": "EMp ind",
+				"code": "EMQ6V"
+			},
+			"previousPayRate": "5678"
+		}],
+		"scholarships": [{
+			"scholarship": {
+				"id": "mScholarship/11887022388",
+				"title": "Outside or Other Scholarships",
+				"code": "OTHERSGRN"
+			},
+			"amount": "1000",
+			"description": "scholarship 1  Desc Val"
+		}, {
+			"scholarship": {
+				"id": "mScholarship/11887021900",
+				"title": "Native American/Tribal Scholarship",
+				"code": "TRIBAL"
+			},
+			"amount": "2000",
+			"description": "Scholarship 2 Description Val"
+		}],
+		"attributes": [{
+			"id": "mAttributes/14832570400",
+			"title": "test",
+			"code": "test"
+		}, {
+			"id": "mAttributes/14838921253",
+			"title": "Testingxperts",
+			"code": "16001"
+		}],
+		"interests": [{
+			"id": "mInterests/7381766",
+			"title": "Praise and Worship",
+			"code": "PAW"
+		}, {
+			"id": "mInterests/7381767",
+			"title": "Pep Band",
+			"code": "PBD"
+		}],
+		"sports": [{
+			"id": "mSports/5251490871",
+			"title": "Men's Basketball",
+			"code": "BBM"
+		}, {
+			"id": "mSports/14598437496",
+			"title": "Cross Country",
+			"code": "CRS"
+		}],
+		"emailOptIn": true,
+		"smsOptIn": true,
+		"import_id": "csv_import/14926012227"
+	},
+	"applicant": {
+		"calendarType": {
+			"id": "mCalendarTypes/14922785578",
+			"title": "VikasCalendar",
+			"code": "VikasCalendar"
+		},
+		"term": {
+			"id": "terms/14922790259",
+			"title": "Spring 2020"
+		},
+		"studentType": {
+			"id": "mStudentTypes/7035902",
+			"title": "Continuing",
+			"code": "CO-TRD"
+		},
+		"academics": {
+			"degreeType": {
+				"id": "mDegreeTypes/14590433098",
+				"title": "Half Time",
+				"code": "HALF"
+			},
+			"degree": {
+				"id": "mDegreesCodes/10407",
+				"title": "Non Degree Seeking",
+				"code": "NOND"
+			},
+			"degreeMinor": [{
+				"id": "mMinorsCodes/5210245659",
+				"title": "Accounting",
+				"code": "A"
+			}],
+			"degreeConcentration": [{
+				"id": "mConcentrationsCodes/14925371451",
+				"title": "Vikas1",
+				"code": "Vikas1"
+			}, {
+				"id": "mConcentrationsCodes/14925371494",
+				"title": "Vikas2",
+				"code": "Vikas2"
+			}],
+			"degreeCertificate": [{
+				"id": "mCertificates/14783469190",
+				"title": "Certificate1",
+				"code": "CEI1G"
+			}, {
+				"id": "mCertificates/14783469253",
+				"title": "Certificate2",
+				"code": "CE05T"
+			}],
+			"admitCode": {
+				"id": "mAdmitCodes/14754799645",
+				"title": "Hello",
+				"code": "hello"
+			},
+			"campusCode": {
+				"id": "mCampusCodes/14834935233",
+				"title": "campus test",
+				"code": "CAU3E"
+			},
+			"residencyCode": {
+				"id": "mResidencyCodes/124055",
+				"title": "Off Campus",
+				"code": "OFCMP"
+			},
+			"educationalGoal": {
+				"id": "mDegreesCodes/14789453862",
+				"title": "Test Award 12 dec",
+				"code": "TEQ2O"
+			}
+		},
+		"cohort": {
+			"id": "mCohorts/14925370806",
+			"title": "Vikas",
+			"code": "Vikas"
+		},
+		"primaryMajor": {
+			"id": "mMajorsCodes/14832513715",
+			"title": "23432432",
+			"code": "4545"
+		},
+		"secondaryMajor": [{
+			"id": "mMajorsCodes/14509604",
+			"title": "Christian Studies",
+			"code": "AACS"
+		}],
+		"enrollmentWestcliff": "Transfer Student",
+		"educationalGoalMajor": [{
+			"id": "mMajorsCodes/14509604",
+			"title": "Christian Studies",
+			"code": "AACS"
+		}, {
+			"id": "mMajorsCodes/10622",
+			"title": "Non Degree Seeking",
+			"code": "NOND"
+		}],
+		"citizenStatus": "N",
+		"import_id": "csv_import/14926012227"
+	},
+	"academicHistory": {
+		"passesdGEDGEN": "YES",
+		"firstGeneration": "No",
+		"highSchools": [{
+			"status": {
+				"id": "mAcademicHistoryStatus/10208966067",
+				"title": "Unofficial",
+				"code": "U"
+			},
+			"country": {
+				"id": "mCountries/7880",
+				"country": "India",
+				"countryCode": "IN",
+				"stateLabel": "State",
+				"dialCode": "+91",
+				"zipCodeLabel": "PIN Code",
+				"minPhoneLength": 10,
+				"maxPhoneLength": 10
+			},
+			"state": "Karnataka",
+			"college": "HighSchool1Name",
+			"ceebCode": "1234567",
+			"institutionStanding": "Graduation Date",
+			"institutionStandingMonth": {
+				"code": "MAR",
+				"title": "March"
+			},
+			"institutionStandingYear": {
+				"code": 2019,
+				"title": 2019
+			},
+			"counselorFirstName": "CounselorFirstName",
+			"counselorLastName": "CounselorLastName",
+			"counselorEmail": "counselor@gmail.com",
+			"rankInClass": "3",
+			"totalStudents": "13",
+			"gpa": "2.34",
+			"maximumPossibleScore": "10"
+		}],
+		"colleges": [{
+			"status": {
+				"id": "mAcademicHistoryStatus/10208966049",
+				"title": "Self-Reported",
+				"code": "SR"
+			},
+			"country": {
+				"id": "mCountries/7880",
+				"country": "India",
+				"countryCode": "IN",
+				"stateLabel": "State",
+				"dialCode": "+91",
+				"zipCodeLabel": "PIN Code",
+				"minPhoneLength": 10,
+				"maxPhoneLength": 10
+			},
+			"state": "Karnataka",
+			"college": "Bangalore college",
+			"ceebCode": "23456",
+			"degree": {
+				"id": "mDegreeTypeEarned/14806327526",
+				"title": "all degree",
+				"code": "ALK11"
+			},
+			"institutionStanding": "Graduation DATE",
+			"institutionStandingMonth": "Apr",
+			"institutionStandingYear": "2019",
+			"creditsCompleted": "6",
+			"areaOfStudy": "Life",
+			"beginDate": 1293901200000,
+			"endDate": 1420131600000,
+			"Anotherdegree": "Associate",
+			"gpa": "3.34"
+		}, {
+			"institutionStandingMonth": "",
+			"institutionStandingYear": ""
+		}, {
+			"institutionStandingMonth": "",
+			"institutionStandingYear": ""
+		}],
+		"import_id": "csv_import/14926012227"
+	}
+}
